@@ -1,0 +1,6 @@
+📁📁 Queries/
+  
+~This folder stores all the SQL queries written and executed to perform various data analyses. 
+  ~Each file corresponds to a specific business question or analytical task, such as identifying top-selling genres, evaluating employee sales performance, or calculating revenue by country.
+  
+📜📜These queries demonstrate practical SQL skills using joins, aggregations, subqueries, and window functions.
