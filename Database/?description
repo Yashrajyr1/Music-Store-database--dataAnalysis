@@ -1,0 +1,7 @@
+📁📁 Database/
+
+🏬Contains the database file or SQL script used in the project. This may include the Music Store.sqlite database or schema setup files for PostgreSQL.
+  **It serves as the raw data source for analysis.
+
+~ It stores all the relational data—such as customer details, invoices, tracks, albums, genres, and employee records. 
+  The data in this folder forms the foundation for all analysis and insights derived throughout the project.
